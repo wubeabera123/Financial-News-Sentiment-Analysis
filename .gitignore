@@ -1,2 +1,4 @@
 /venv
 data/raw_analyst_ratings.csv
+data/cleaned_analyst_ratings.csv
+data/cleaned_file.csv
