@@ -1,4 +1,5 @@
 /venv
+/data
 data/raw_analyst_ratings.csv
 data/cleaned_analyst_ratings.csv
 notebooks/cleaned_file.csv
