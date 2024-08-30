@@ -1,1 +1,2 @@
-# Financial-News-Sentiment-Analysis
+Sentiment-Driven-Stock-Insights-Unveiling-Market-Trends-with-NLP-and-Data-Analysis
+Sentiment-Driven Stock Insights: Analyze news sentiment & correlate with stock market trends using NLP & data analysis. Gain actionable insights for financial forecasting & investment strategies.
