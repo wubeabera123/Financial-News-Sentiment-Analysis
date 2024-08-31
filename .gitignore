@@ -4,3 +4,10 @@ data/raw_analyst_ratings.csv
 data/cleaned_analyst_ratings.csv
 data/cleaned_file.csv
 notebooks/cleaned_file.csv
+notebooks/cleaned_AAPL_historical_data.csv
+notebooks/cleaned_AMZN_historical_data.csv
+notebooks/cleaned_GOOG_historical_data.csv
+notebooks/cleaned_META_historical_data.csv
+notebooks/cleaned_MSFT_historical_data.csv
+notebooks/cleaned_NVDA_historical_data.csv
+notebooks/cleaned_TSLA_historical_data.csv
